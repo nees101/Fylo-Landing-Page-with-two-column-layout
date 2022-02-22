@@ -30,7 +30,7 @@ Users should be able to:
 ![](./FinalDesignScreenshots/Desktop_version.png)
 
 #### Active State
-![](./FinalDesignScreenshots/Desktop_ActiveState.png)
+![](./FinalDesignScreenshots/ActiveState.png)
 
 #### Mobile Design
 

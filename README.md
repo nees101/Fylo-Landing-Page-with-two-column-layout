@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@nees101/FrontendMentor](https://your-solution-url.com)
-- Live Site URL: [@nees101/Github](https://your-live-site-url.com)
+- Solution URL: [@nees101/FrontendMentor](https://www.frontendmentor.io/solutions/fylo-landing-page-design-using-css-custom-properties-bootstrap-and-js-Zn-j-42Yu)
+- Live Site URL: [@nees101/Github]( https://nees101.github.io/Fylo-Landing-Page-with-two-column-layout/)
 
 ## My process
 
